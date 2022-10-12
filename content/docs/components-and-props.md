@@ -113,8 +113,7 @@ function App() {
 
 **[Try it on CodePen](https://codepen.io/gaearon/pen/KgQKPr?editors=1010)**
 
-Typically, new React apps have a single `App` component at the very top. However, if you integrate React into an existing app, you might start bottom-up with a small component like `Button` and gradually work your way to the top of the view hierarchy.
-
+sds
 ## Extracting Components {#extracting-components}
 
 Don't be afraid to split components into smaller components.
